@@ -1,2 +1,2 @@
 #!/bin/bash
-find . */tmp/*.html -execdir mv -t ..
+cp -u *.html ..
