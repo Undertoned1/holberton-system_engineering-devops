@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -path "*/tmp/*.html3" -execdir mv -t ..
+find . */tmp/*.html -execdir mv -t ..
