@@ -1,0 +1,2 @@
+#!/bin/bash
+cat grep_starting | grep "A*-Z*"
