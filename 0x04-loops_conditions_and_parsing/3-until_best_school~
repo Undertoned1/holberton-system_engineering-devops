@@ -1,0 +1,9 @@
+#!/usr/bin/env bash
+
+i=10
+
+until (( $i -gt 0 ))
+do
+    echo Best School
+    ((i--))
+done
