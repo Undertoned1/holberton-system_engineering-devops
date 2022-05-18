@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#Displays Best school 10 times
 i=10
 
 while [ $i -gt 0 ]
