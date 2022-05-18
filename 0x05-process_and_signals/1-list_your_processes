@@ -1,3 +1,0 @@
-#!/usr/bin/env bash
-#Displays currently running processes, ALL processes including TTY and Non, User oriented format.
-ps -faux
