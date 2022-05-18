@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+#Displays numbers 1-20 then on appropriate lines lists countries that the number is bad luck
 i=0
 
 while (( i < 20 ))
