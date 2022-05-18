@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
 #Displays Best school 10 times, but on the 4th line says bad luck on 8th says good luck
+
 i=1
 
 while (( i < 11 ))
