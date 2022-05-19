@@ -1,9 +1,1 @@
 #!/usr/bin/env bash
-
-i=0
-
-while (( i < 12))
-      case y in
-	  *)
- 
-      esac
